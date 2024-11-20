@@ -1,5 +1,5 @@
 # Jekyll-Tag-Generator
-Do you run a Jekyll blog? Do you use tags to add hashtags to your posts, which, in-turn, creates a sort of archive for your sit? Are you tired of having to make those tag pages manually, with your fingers and a keybaord, like a *caveman*?
+Do you run a Jekyll blog? Do you use tags to add hashtags to your posts, which, in-turn, creates a sort of archive for your visitors to read through? Are you tired of having to make those tag pages manually, with your fingers and a keybaord, like a *caveman*?
 
 Well, buddy, do I have the solution for you!
 
