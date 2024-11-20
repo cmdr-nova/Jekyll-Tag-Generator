@@ -63,7 +63,7 @@ In head.html in the _includes directory, add this:
     {% include collecttags.html %}
   {% endif %}
 ```
-Finally, create an archive.html where all of your tags can be viewed like an archive for visitors to read, and put it in your _includes directory:
+Finally, create an archive.html where all of your tags can be viewed, and put it in your _includes directory:
 ```
 <p class="cloud">
 {% capture temptags %}
